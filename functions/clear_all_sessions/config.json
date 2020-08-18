@@ -1,5 +1,5 @@
 {
-    "name": "clear_all_session",
+    "name": "clear_all_sessions",
     "private": false,
     "run_as_system": true
 }
